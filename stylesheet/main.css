@@ -4,7 +4,7 @@
 }
 
 body{
-  background: url("our-pricing/images/bg-bottom.svg") 0% 100% no-repeat , url("our-pricing/images/bg-top.svg") 100% 0 no-repeat;
+  background: url("/images/bg-bottom.svg") 0% 100% no-repeat , url("/images/bg-top.svg") 100% 0 no-repeat;
   font-size: 15px;
 
   font-family: 'Montserrat', sans-serif;
