@@ -4,8 +4,9 @@
 }
 
 body{
-  background: url("./images/bg-bottom.svg") 0% 100% no-repeat , url("our-coding/images/bg-top.svg") 100% 0 no-repeat;
+  background: url("https://i.imgur.com/dUcjxtJ.jpg") 0% 100% no-repeat , url("https://i.imgur.com/gd5GfGW.jpg") 100% 0 no-repeat;
   font-size: 15px;
+  background-size: 300px, 300px;
 
   font-family: 'Montserrat', sans-serif;
   font-weight: 200;
